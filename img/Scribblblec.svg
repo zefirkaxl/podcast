@@ -1,0 +1,8 @@
+<svg width="104" height="106" viewBox="0 0 104 106" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M37.2126 1.62903C37.2128 83.0404 56.882 59.0756 59.7144 53.6588C84.0403 7.13807 29.306 32.8469 39.0371 104.464" stroke="black" stroke-width="1.71392" stroke-linecap="round"
+/>
+<animate attributeName="height" 
+                 values="80;180;80" 
+                 dur="4s" 
+                 repeatCount="1" />
+</svg>
